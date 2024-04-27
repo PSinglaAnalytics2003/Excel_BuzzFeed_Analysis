@@ -15,14 +15,23 @@ SocialBuzz is a fast growing technology unicorn that need to adapt quickly to it
    
   ![Screenshot (106)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/9d0e4ea2-80c5-4ca6-8318-68eae23a3700)
  
-5) Used the final table to explore the data and to get the useful insights by creating pivot tables and visualizations.
+4) Used the final table to explore the data and to get the useful insights by creating pivot tables and visualizations.
    
 # INSIGHTS
-1) There are 16 unique Categories
-2) Animals and Science are the two most popular  categories of content, showing that the  people enjoy "real-life"  and  "factual " content the most.
-3) Animals and Science are the two most popular  categories of content,  as well as has the most number of reactions to these posts.
-4) January, May, August  and December are the months with the highest number of posts.
-5) Comparatively, users have more positive reactions than negative. Photos have both high positive and negative reactions.
+1) There are 16 unique Categories - removed the duplicates from the Category Column
+   
+   ![Screenshot (107)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/1b75aa9d-3386-4106-bc3e-0eaa2be355ce)
+
+2) Animals and Science are the two most popular  categories of content, showing that the  people enjoy "real-life"  and  "factual " content the most. Used the SUMIF function to calculate the total scores by categories. And used CONDITIONAL FORMATTING to get the Top 5 Categories. 
+
+   ![Screenshot (108)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/b542e853-bb2a-4365-82af-c7bb152ea801)
+   ![Screenshot (112)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/106e59f4-6ea9-4f05-ac90-8914838c66c7)
+
+   
+4) Animals and Science are the two most popular  categories of content,  as well as has the most number of reactions to these posts.
+5) January, May, August  and December are the months with the highest number of posts.
+6) Compar
+atively, users have more positive reactions than negative. Photos have both high positive and negative reactions.
 
 
 

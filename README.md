@@ -28,14 +28,18 @@ SocialBuzz is a fast growing technology unicorn that need to adapt quickly to it
    ![Screenshot (112)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/106e59f4-6ea9-4f05-ac90-8914838c66c7)
 
    
-4) Animals and Science are the two most popular  categories of content,  as well as has the most number of reactions to these posts.
-5) January, May, August  and December are the months with the highest number of posts.
-6) Compar
-atively, users have more positive reactions than negative. Photos have both high positive and negative reactions.
+3) Animals and Science are the two most popular  categories of content,  as well as has the most number of reactions to these posts.
+   
+   ![Screenshot (109)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/575bb4c5-e624-4ca7-948d-66a77fdb17e9)
 
+4) January, May, August  and December are the months with the highest number of posts. Extracted month from datetime column
+   
+   ![Screenshot (110)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/6d24257c-2fab-4d81-bd39-11ee71d45cd1)
+![Screenshot (113)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/750fa9c6-b631-44b0-a601-6ad01d092e7c)
 
+5) Comparatively, users have more positive reactions than negative. Photos have both high positive and negative reactions.
 
-
+![Screenshot (111)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/94f41cfc-f60c-4319-a8fd-58074e9a1532)
 
 
 

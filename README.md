@@ -12,6 +12,7 @@ SocialBuzz is a fast growing technology unicorn that need to adapt quickly to it
 1) Collected the data from the Accenture Forage Wbsite
 2) Cleaned the data from Reactions, Reaction_types and Content Files 
 3) Merge the data into a single file using VLOOKUP, by making the Content as the base table
+   
   ![Screenshot (106)](https://github.com/PSinglaAnalytics2003/Excel_BuzzFeed_Analysis/assets/168019114/9d0e4ea2-80c5-4ca6-8318-68eae23a3700)
  
 5) Used the final table to explore the data and to get the useful insights by creating pivot tables and visualizations.

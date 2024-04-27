@@ -9,7 +9,7 @@ SocialBuzz is a fast growing technology unicorn that need to adapt quickly to it
 5) Which content types (e.g., photo) elicit the most positive and negative reactions from users?
 
 # STEPS TAKEN
-1) Collected the data from the Accenture Forage Wbsite
+1) Collected the data from the Accenture Forage Website
 2) Cleaned the data from Reactions, Reaction_types and Content Files 
 3) Merge the data into a single file using VLOOKUP, by making the Content as the base table
    
